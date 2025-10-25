@@ -11,7 +11,7 @@ class Dosen {
 // Data Dummy
 final List<Dosen> daftarDosen = [
   Dosen(
-    nama: 'AHMA NASUKHA, S.Hum., M.S.I',
+    nama: 'AHMAD NASUKHA, S.Hum., M.S.I',
     nip: '198807222022031001',
     bidangKeahlian: 'Pemrograman Mobile',
   ),
